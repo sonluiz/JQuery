@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    background: aliceblue;
+    color: aquamarine;
+}
+p{
+    color: darkcyan;
+}
+div{
+    color: burlywood;
+    background: darkgray;
+}
+span{
+    background: darkgray;
+    color: yellow;
+}
